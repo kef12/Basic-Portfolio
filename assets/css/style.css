@@ -2,6 +2,13 @@
 *CSS File
 **/
 
+div {
+    width: 960px;
+    border: 100px solid #dddddd;
+    padding: 90px;
+    margin: 100px;
+}
+
 *{
     box-sizing: border-box;
     text-align: center;
@@ -80,7 +87,16 @@ section {
 
 h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    color: blue
+    color: #ffffff;
+    background: #4aaaa5;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    float: right;
 }
  #about-me {
      color: #4aaaa5
