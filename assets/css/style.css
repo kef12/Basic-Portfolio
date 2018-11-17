@@ -26,6 +26,58 @@ section {
     background: #ccc
 }
 
+#action_page {
+    padding: 20px;
+    color: #8b8378;
+    margin-bottom: 20px;
+    background: #ccc;
+    float: left;
+    width: 33% 
+}
+
+#email {
+    padding: 20px;
+    color: #8b8378;
+    margin-bottom: 20px;
+    background: #ccc;
+    float: left;
+    width: 33% 
+}
+
+#message {
+    padding: 20px;
+    color: #8b8378;
+    margin-bottom: 20px;
+    background: #ccc;
+    float: left;
+    width: 33% 
+}
+
+#hangman {
+    float: left;
+    padding: 20px;
+}
+
+#rpg {
+    float: left;
+    padding: 20px;
+}
+
+#trivia {
+    float: left;
+    padding: 20px;
+}
+
+#info_widget {
+    float: left;
+    padding: 20px;
+}
+
+#rps {
+    float: left;
+    padding: 20px;
+}
+
 h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     color: blue
@@ -40,5 +92,8 @@ body {
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    background: #efeee7;
+    background: #ffffff;
   }
+footer {
+    background: #666666
+}
